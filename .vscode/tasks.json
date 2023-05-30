@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"label": "build",
+		"type": "shell",
+		"command": "gcc",
+		"args": [
+		  "-g",
+		  "-o",
+		  "custom_sort_challenge",
+		  "custom_sort_challenge.c"
+		],
+		"group": {
+		  "kind": "build",
+		  "isDefault": true
+		},
+		"problemMatcher": "$gcc"
+	  }
+	]
+  }
+  

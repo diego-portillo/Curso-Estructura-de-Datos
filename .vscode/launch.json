@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C Debug",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "C:/Users/Operaciones/VSCodeProjects/Curso Estructura de Datos/custom_sort_challenge.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "C:/Users/Operaciones/VSCodeProjects/Curso Estructura de Datos/",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "preLaunchTask": "build"
+    }
+  ]
+}
