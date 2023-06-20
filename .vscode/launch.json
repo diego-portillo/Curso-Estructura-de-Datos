@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C Debug",
+      "name": "C++ Debug",
       "type": "cppdbg",
       "request": "launch",
-      "program": "C:/Users/Operaciones/VSCodeProjects/estructura_de_datos_y_algoritmos/mergesort.exe",
+      "program": "C:/Users/Operaciones/VSCodeProjects/estructura_de_datos_y_algoritmos/greedyCoinChange.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "C:/Users/Operaciones/VSCodeProjects/estructura_de_datos_y_algoritmos/",
